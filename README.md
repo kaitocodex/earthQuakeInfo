@@ -86,26 +86,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Data provided by the [US Geological Survey](https://earthquake.usgs.gov/)
-- Created using [Create React App](https://github.com/facebook/create-react-app)
-```
-
-This README provides a comprehensive overview of your project, including:
-
-1. A brief description of the application
-2. Features
-3. Technology stack used
-4. Prerequisites
-5. Installation instructions
-6. Configuration details
-7. How to run the application
-8. Usage instructions
-9. API endpoint information
-10. Contribution guidelines
-11. License information
-12. Acknowledgements
-
-You can customize this README further by adding screenshots, more detailed usage examples, or any additional sections that you think would be helpful for users or contributors to your project.
