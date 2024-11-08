@@ -1,6 +1,5 @@
 Certainly! Here's a comprehensive README.md file for your Earthquake Information MERN stack project:
 
-```markdown
 # Earthquake Information App
 
 ## Overview
